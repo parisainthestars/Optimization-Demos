@@ -1,5 +1,7 @@
-````markdown
 # Practical Optimization Examples
+
+
+````markdown
 
 A collection of mini-projects and examples demonstrating mathematical optimization and control techniques. This repository is divided into two distinct sections: **Python** (using the CVXPY library) and **MATLAB** (using the CasADi framework).
 
