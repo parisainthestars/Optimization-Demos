@@ -52,12 +52,12 @@ Located in the `matlab-casadi/` folder. These scripts focus on nonlinear program
 
 | Script File | Topic | Description |
 | :--- | :--- | :--- |
-| **E1.m** | Unconstrained Optimization | Basic scalar minimization of a quadratic function. |
-| **E2.m** | Non-Convex Optimization | Minimization of a multimodal function `sin(x)` to demonstrate local minima. |
-| **E3.m** | Parameter Estimation | Least Squares regression to fit a line `y=mx+c` to a dataset. |
-| **E4.m** | Quadratic Programming | Optimization with linear inequality and equality constraints. |
-| **E5.m** | Nonlinear Programming | Maximizing geometric volume (similar to the Python example) using CasADi. |
-| **E6.m** | Model Predictive Control | **Robot Trajectory Optimization:** Controls a differential drive robot to track a reference posture. Includes real-time animation. |
+| **P1.m** | Unconstrained Optimization | Basic scalar minimization of a quadratic function. |
+| **P2.m** | Non-Convex Optimization | Minimization of a multimodal function `sin(x)` to demonstrate local minima. |
+| **P3.m** | Parameter Estimation | Least Squares regression to fit a line `y=mx+c` to a dataset. |
+| **P4.m** | Quadratic Programming | Optimization with linear inequality and equality constraints. |
+| **P5.m** | Nonlinear Programming | Maximizing geometric volume (similar to the Python example) using CasADi. |
+| **P6.m** | Model Predictive Control | **Robot Trajectory Optimization:** Controls a differential drive robot to track a reference posture. Includes real-time animation. |
 
 ### Requirements (MATLAB)
 
@@ -77,7 +77,7 @@ Located in the `matlab-casadi/` folder. These scripts focus on nonlinear program
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/practical-optimization-examples.git
+    git clone https://github.com/parisainthestars/Optimization-Demos.git
     ```
 
 2.  **Navigate to the desired example:**
