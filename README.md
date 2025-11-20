@@ -83,9 +83,9 @@ Located in the `matlab-casadi/` folder. These scripts focus on nonlinear program
 2.  **Navigate to the desired example:**
 
     ```bash
-    cd python-cvxpy
+    cd python_cvxpy
     # OR
-    cd matlab-casadi
+    cd matlab_casadi
     ```
 
 3.  Run the Jupyter Notebooks or execute the MATLAB scripts to see the solvers in action.
