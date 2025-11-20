@@ -7,7 +7,6 @@ A collection of mini-projects and examples demonstrating mathematical optimizati
 
 The repository is organized into two folders based on the language/library used:
 
-```text
 practical-optimization-examples/
 ├── python-cvxpy/          # Jupyter Notebooks using CVXPY
 │   ├── Linear Programming.ipynb
@@ -24,8 +23,6 @@ practical-optimization-examples/
     ├── E5.m
     └── E6.m
 ````
-
------
 
 ## 🐍 Python Examples (CVXPY)
 
@@ -93,7 +90,6 @@ Located in the `matlab-casadi/` folder. These scripts focus on nonlinear program
 
 3.  Run the Jupyter Notebooks or execute the MATLAB scripts to see the solvers in action.
 
-<!-- end list -->
 
 ```
 ```
